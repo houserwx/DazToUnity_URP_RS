@@ -2,7 +2,7 @@
   "name": "com.recursedstudios.daztounitybridge",
   "displayName": "RecursedStudios - DazToUnity",
   "version": "0.0.0",
-  "unity": "2021.3.11f1",
+  "unity": "2021.3",
   "description": "Daz to Unity Bridge UPM package",
   "keywords": [
     "unity",
