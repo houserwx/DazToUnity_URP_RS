@@ -2,7 +2,7 @@
     "name": "Unity.com.recursedstudios.daztounitybridge.Editor",
     "rootNamespace": "",
     "references": [
-        "GUID:25daac269e13e4bb0966a465099a7753"
+        "GUID:410151cf46d55c84cbcdb6433b07091e"
     ],
     "includePlatforms": [
         "Editor"
